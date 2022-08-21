@@ -1,8 +1,4 @@
 /*
- * Name: Alicia Chen
- * Date: 07/14/2022
- * Section: CSE 154 AA
- *
  * This is the JS to implement the UI for the Set game and responds to
  * different user interactions with the main webpage
  */
